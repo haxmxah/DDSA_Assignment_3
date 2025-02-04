@@ -80,4 +80,148 @@
     ---------------------------------------------------
     Clustering Coefficient : 0.0014682201688460714
     ---------------------------------------------------
+       
+    ---------------------------------------------------
+    GENERAL CHARACTERISTICS OF THE DATASET
+    ---------------------------------------------------
+    Name                : Infectious
+    Nodes               : Visitor
+    Edges               : Face-to-Face Contacts
+    Type                : Undirected
+    Data Date           : 2009
+    ---------------------------------------------------
+    Number of nodes     : 10972
+    Number of edges     : 44516
+    Density             : 0.00074
+    Average Degree      : 8.1
+    Median Degree       : 8.0
+    Max Degree          : 20
+    Min Degree          : 0
+    ---------------------------------------------------
+       
+    ---------------------------------------------------
+    GENERAL CHARACTERISTICS OF THE DATASET
+    ---------------------------------------------------
+    Name                : Infectious
+    Nodes               : Visitor
+    Edges               : Face-to-Face Contacts
+    Type                : Undirected
+    Data Date           : 2009
+    ---------------------------------------------------
+    Number of nodes     : 10972
+    Number of edges     : 44516
+    Density             : 0.00074
+    Average Degree      : 8.1
+    Median Degree       : 8.0
+    Max Degree          : 21
+    Min Degree          : 0
+    ---------------------------------------------------
+       
+    ---------------------------------------------------
+    GENERAL CHARACTERISTICS OF THE DATASET
+    ---------------------------------------------------
+    Name                : Infectious
+    Nodes               : Visitor
+    Edges               : Face-to-Face Contacts
+    Type                : Undirected
+    Data Date           : 2009
+    ---------------------------------------------------
+    Number of nodes     : 10972
+    Number of edges     : 44516
+    Density             : 0.00074
+    Average Degree      : 8.1
+    Median Degree       : 8.0
+    Max Degree          : 21
+    Min Degree          : 0
+    ---------------------------------------------------
+       
+    ---------------------------------------------------
+    GENERAL CHARACTERISTICS OF THE DATASET
+    ---------------------------------------------------
+    Name                : Infectious
+    Nodes               : Visitor
+    Edges               : Face-to-Face Contacts
+    Type                : Undirected
+    Data Date           : 2009
+    ---------------------------------------------------
+    Number of nodes     : 10972
+    Number of edges     : 44516
+    Density             : 0.00074
+    Average Degree      : 8.1
+    Median Degree       : 8.0
+    Max Degree          : 21
+    Min Degree          : 0
+    ---------------------------------------------------
+       
+    ---------------------------------------------------
+    GENERAL CHARACTERISTICS OF THE DATASET
+    ---------------------------------------------------
+    Name                : Infectious
+    Nodes               : Visitor
+    Edges               : Face-to-Face Contacts
+    Type                : Undirected
+    Data Date           : 2009
+    ---------------------------------------------------
+    Number of nodes     : 10972
+    Number of edges     : 44516
+    Density             : 0.00074
+    Average Degree      : 8.1
+    Median Degree       : 8.0
+    Max Degree          : 21
+    Min Degree          : 0
+    ---------------------------------------------------
+       
+    ---------------------------------------------------
+    DEGREE CENTRALITY
+    ---------------------------------------------------
+    
+    Visitor (Node) 10912 has degree centrality of 0.0019. It has 0 contacts at date [].
+        
+    Visitor (Node) 3749 has degree centrality of 0.0018. It has 0 contacts at date [].
+        
+    Visitor (Node) 6784 has degree centrality of 0.0018. It has 0 contacts at date [].
+        
+    Visitor (Node) 1500 has degree centrality of 0.0017. It has 0 contacts at date [].
+        
+    Visitor (Node) 4261 has degree centrality of 0.0017. It has 0 contacts at date [].
+        
+    ---------------------------------------------------
+       
+    ---------------------------------------------------
+    CLOSENESS CENTRALITY
+    ---------------------------------------------------
+    
+    Visitor (Node) 10546 has closeness centrality of 0.24. It has 0 contacts at date [].
+        
+    Visitor (Node) 3749 has closeness centrality of 0.24. It has 0 contacts at date [].
+        
+    Visitor (Node) 1500 has closeness centrality of 0.24. It has 0 contacts at date [].
+        
+    Visitor (Node) 10839 has closeness centrality of 0.24. It has 0 contacts at date [].
+        
+    Visitor (Node) 10912 has closeness centrality of 0.24. It has 0 contacts at date [].
+        
+    ---------------------------------------------------
+    
+    ---------------------------------------------------
+    EIGENVECTOR CENTRALITY
+    ---------------------------------------------------
+    
+    Visitor (Node) 3749 has degree centrality of 0.028. It has 0 contacts at date [].
+        
+    Visitor (Node) 10546 has degree centrality of 0.028. It has 0 contacts at date [].
+        
+    Visitor (Node) 10912 has degree centrality of 0.028. It has 0 contacts at date [].
+        
+    Visitor (Node) 1500 has degree centrality of 0.028. It has 0 contacts at date [].
+        
+    Visitor (Node) 10839 has degree centrality of 0.027. It has 0 contacts at date [].
+        
+    ---------------------------------------------------
+       
+    ---------------------------------------------------
+    Average Path Length : 4.6
+    Diameter            : 7
+    Effective Diameter  : (4.9, 4.9)
+    ---------------------------------------------------
     
