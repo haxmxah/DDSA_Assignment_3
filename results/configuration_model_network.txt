@@ -80,4 +80,86 @@
     ---------------------------------------------------
     Clustering Coefficient : 0.0015407763173890597
     ---------------------------------------------------
+       
+    ---------------------------------------------------
+    GENERAL CHARACTERISTICS OF THE DATASET
+    ---------------------------------------------------
+    Name                : Infectious
+    Nodes               : Visitor
+    Edges               : Face-to-Face Contacts
+    Type                : Undirected
+    Data Date           : 2009
+    ---------------------------------------------------
+    Number of nodes     : 10972
+    Number of edges     : 44469
+    Density             : 0.00074
+    Average Degree      : 8.1
+    Median Degree       : 6.0
+    Max Degree          : 64
+    Min Degree          : 1
+    ---------------------------------------------------
+       
+    ---------------------------------------------------
+    DEGREE CENTRALITY
+    ---------------------------------------------------
+    
+    Visitor (Node) 5568 has degree centrality of 0.005833561206817974. It has 0 contacts.
+        
+    Visitor (Node) 4113 has degree centrality of 0.004557469692826542. It has 0 contacts.
+        
+    Visitor (Node) 354 has degree centrality of 0.004375170905113481. It has 0 contacts.
+        
+    Visitor (Node) 4334 has degree centrality of 0.00428402151125695. It has 0 contacts.
+        
+    Visitor (Node) 372 has degree centrality of 0.0041928721174004195. It has 0 contacts.
+        
+    ---------------------------------------------------
+       
+    ---------------------------------------------------
+    CLOSENESS CENTRALITY
+    ---------------------------------------------------
+    
+    Visitor (Node) 5568 has closeness centrality of 0.28850003837869215. It has 0 contacts.
+        
+    Visitor (Node) 4113 has closeness centrality of 0.28139120786422744. It has 0 contacts.
+        
+    Visitor (Node) 4297 has closeness centrality of 0.2799040380521945. It has 0 contacts.
+        
+    Visitor (Node) 10094 has closeness centrality of 0.2785103131974266. It has 0 contacts.
+        
+    Visitor (Node) 9741 has closeness centrality of 0.27758650575759103. It has 0 contacts.
+        
+    ---------------------------------------------------
+    
+    ---------------------------------------------------
+    EIGENVECTOR CENTRALITY
+    ---------------------------------------------------
+    
+    Visitor (Node) 5568 has degree centrality of 0.07534430204967281. It has 0 contacts.
+        
+    Visitor (Node) 4113 has degree centrality of 0.050156882833261744. It has 0 contacts.
+        
+    Visitor (Node) 10094 has degree centrality of 0.04687833777372796. It has 0 contacts.
+        
+    Visitor (Node) 4257 has degree centrality of 0.04575799831398133. It has 0 contacts.
+        
+    Visitor (Node) 425 has degree centrality of 0.045681826381770006. It has 0 contacts.
+        
+    ---------------------------------------------------
+       
+    ---------------------------------------------------
+    Average Path Length : 4.4112417943107225
+    Diameter            : 8
+    Effective Diameter  : (4.887875839913124, 4.887875839913124)
+    ---------------------------------------------------
+       
+    ---------------------------------------------------
+    Innermost k-shell : 6
+    Number of nodes   : 4541
+    Number of edges   : 23713
+    ---------------------------------------------------
+    
+    ---------------------------------------------------
+    Clustering Coefficient : 0.001580234592950538
+    ---------------------------------------------------
     
