@@ -10,170 +10,6 @@
     ---------------------------------------------------
     Number of nodes     : 10972
     Number of edges     : 44516
-    Density             : 0.24647317818312517
-    Average Degree      : 0.0007396293140571141
-    Median Degree       : 0.0005468963631391851
-    Max Degree          : 0.005833561206817974
-    Min Degree          : 9.114939385653085e-05
-    ---------------------------------------------------
-       
-    ---------------------------------------------------
-    DEGREE CENTRALITY
-    ---------------------------------------------------
-    
-    Visitor (Node) 83558448 has degree centrality of 0.005833561206817974. It has 570 contacts.
-        
-    Visitor (Node) 90636462 has degree centrality of 0.004557469692826542. It has 267 contacts.
-        
-    Visitor (Node) 94961689 has degree centrality of 0.004375170905113481. It has 129 contacts.
-        
-    Visitor (Node) 81068077 has degree centrality of 0.00428402151125695. It has 123 contacts.
-        
-    Visitor (Node) 80150715 has degree centrality of 0.0041928721174004195. It has 415 contacts.
-        
-    ---------------------------------------------------
-       
-    ---------------------------------------------------
-    CLOSENESS CENTRALITY
-    ---------------------------------------------------
-    
-    Visitor (Node) 83558448 has closeness centrality of 0.29175276682258117. It has 570 contacts.
-        
-    Visitor (Node) 81068077 has closeness centrality of 0.2847592657491442. It has 123 contacts.
-        
-    Visitor (Node) 94961689 has closeness centrality of 0.28211594318533384. It has 129 contacts.
-        
-    Visitor (Node) 74317868 has closeness centrality of 0.2807333412519852. It has 108 contacts.
-        
-    Visitor (Node) 73334797 has closeness centrality of 0.28016543348903045. It has 319 contacts.
-        
-    ---------------------------------------------------
-    
-    ---------------------------------------------------
-    EIGENVECTOR CENTRALITY
-    ---------------------------------------------------
-    
-    Visitor (Node) 83558448 has degree centrality of 0.08230432982031798. It has 570 contacts.
-        
-    Visitor (Node) 81068077 has degree centrality of 0.060054146400189745. It has 123 contacts.
-        
-    Visitor (Node) 94961689 has degree centrality of 0.054027327602562805. It has 129 contacts.
-        
-    Visitor (Node) 74317868 has degree centrality of 0.05092313182237545. It has 108 contacts.
-        
-    Visitor (Node) 90636462 has degree centrality of 0.04876793886564907. It has 267 contacts.
-        
-    ---------------------------------------------------
-       
-    ---------------------------------------------------
-    Average Path Length : 4.244884548690335
-    Diameter            : 8
-    Effective Diameter  : (4.789579775469638, 4.789579775469638)
-    ---------------------------------------------------
-       
-    ---------------------------------------------------
-    Innermost k-shell : 6
-    Number of nodes   : 4577
-    Number of edges   : 23972
-    ---------------------------------------------------
-    
-    ---------------------------------------------------
-    Clustering Coefficient : 0.0015811685028565424
-    ---------------------------------------------------
-       
-    ---------------------------------------------------
-    GENERAL CHARACTERISTICS OF THE DATASET
-    ---------------------------------------------------
-    Name                : Infectious
-    Nodes               : Visitor
-    Edges               : Face-to-Face Contacts
-    Type                : Undirected
-    Data Date           : 2009
-    ---------------------------------------------------
-    Number of nodes     : 10972
-    Number of edges     : 44516
-    Density             : 0.00074
-    Average Degree      : 8.1
-    Median Degree       : 6.0
-    Max Degree          : 64
-    Min Degree          : 1
-    ---------------------------------------------------
-       
-    ---------------------------------------------------
-    DEGREE CENTRALITY
-    ---------------------------------------------------
-    
-    Visitor (Node) 83558448 has degree centrality of 0.005833561206817974. It has 570 contacts.
-        
-    Visitor (Node) 90636462 has degree centrality of 0.004557469692826542. It has 267 contacts.
-        
-    Visitor (Node) 94961689 has degree centrality of 0.004375170905113481. It has 129 contacts.
-        
-    Visitor (Node) 81068077 has degree centrality of 0.00428402151125695. It has 123 contacts.
-        
-    Visitor (Node) 80150715 has degree centrality of 0.0041928721174004195. It has 415 contacts.
-        
-    ---------------------------------------------------
-       
-    ---------------------------------------------------
-    CLOSENESS CENTRALITY
-    ---------------------------------------------------
-    
-    Visitor (Node) 90636462 has closeness centrality of 0.28943212241905436. It has 267 contacts.
-        
-    Visitor (Node) 83558448 has closeness centrality of 0.2850787403341628. It has 570 contacts.
-        
-    Visitor (Node) 94961689 has closeness centrality of 0.28377903413017325. It has 129 contacts.
-        
-    Visitor (Node) 77922457 has closeness centrality of 0.283126297613553. It has 294 contacts.
-        
-    Visitor (Node) 81068077 has closeness centrality of 0.2816776157965959. It has 123 contacts.
-        
-    ---------------------------------------------------
-    
-    ---------------------------------------------------
-    EIGENVECTOR CENTRALITY
-    ---------------------------------------------------
-    
-    Visitor (Node) 90636462 has degree centrality of 0.07126557971886854. It has 267 contacts.
-        
-    Visitor (Node) 83558448 has degree centrality of 0.06634283455503466. It has 570 contacts.
-        
-    Visitor (Node) 94961689 has degree centrality of 0.056506581850521265. It has 129 contacts.
-        
-    Visitor (Node) 77922457 has degree centrality of 0.055849785786493335. It has 294 contacts.
-        
-    Visitor (Node) 81068077 has degree centrality of 0.05409086876135257. It has 123 contacts.
-        
-    ---------------------------------------------------
-       
-    ---------------------------------------------------
-    Average Path Length : 4.284321415541773
-    Diameter            : 8
-    Effective Diameter  : (4.814155585802534, 4.814155585802534)
-    ---------------------------------------------------
-       
-    ---------------------------------------------------
-    Innermost k-shell : 6
-    Number of nodes   : 4452
-    Number of edges   : 23297
-    ---------------------------------------------------
-    
-    ---------------------------------------------------
-    Clustering Coefficient : 0.0018318300878718652
-    ---------------------------------------------------
-       
-    ---------------------------------------------------
-    GENERAL CHARACTERISTICS OF THE DATASET
-    ---------------------------------------------------
-    Name                : Infectious
-    Nodes               : Visitor
-    Edges               : Face-to-Face Contacts
-    Type                : Undirected
-    Data Date           : 2009
-    ---------------------------------------------------
-    Number of nodes     : 10972
-    Number of edges     : 44516
     Density             : 0.00074
     Average Degree      : 8.1
     Median Degree       : 6.0
@@ -212,6 +48,22 @@
     Visitor (Node) 81068077 has closeness centrality of 0.28. It has 123 contacts at date [datetime.date(2009, 7, 15)].
         
     ---------------------------------------------------
+       
+    ---------------------------------------------------
+    FARNESS CENTRALITY
+    ---------------------------------------------------
+    
+    Visitor (Node) 96403613 has farness centrality of 11000.0. It has 1 contacts at date [datetime.date(2009, 7, 14)].
+        
+    Visitor (Node) 100466769 has farness centrality of 11000.0. It has 1 contacts at date [datetime.date(2009, 6, 11)].
+        
+    Visitor (Node) 90570834 has farness centrality of 11000.0. It has 33 contacts at date [datetime.date(2009, 6, 12)].
+        
+    Visitor (Node) 100597839 has farness centrality of 11000.0. It has 2 contacts at date [datetime.date(2009, 6, 5)].
+        
+    Visitor (Node) 103874587 has farness centrality of 11000.0. It has 1 contacts at date [datetime.date(2009, 5, 1)].
+        
+    ---------------------------------------------------
     
     ---------------------------------------------------
     EIGENVECTOR CENTRALITY
@@ -232,7 +84,7 @@
     ---------------------------------------------------
     Average Path Length : 4.5
     Diameter            : 8
-    Effective Diameter  : (4.9, 4.9)
+    Effective Diameter  : (5.0, 5.0)
     ---------------------------------------------------
        
     ---------------------------------------------------
