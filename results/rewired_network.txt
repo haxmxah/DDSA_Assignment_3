@@ -10,26 +10,26 @@
     ---------------------------------------------------
     Number of nodes     : 10972
     Number of edges     : 44516
-    Density             : 0.24647317818312517
-    Average Degree      : 0.0007396293140571141
-    Median Degree       : 0.0005468963631391851
-    Max Degree          : 0.005833561206817974
-    Min Degree          : 9.114939385653085e-05
+    Density             : 0.00074
+    Average Degree      : 8.1
+    Median Degree       : 6.0
+    Max Degree          : 64
+    Min Degree          : 1
     ---------------------------------------------------
        
     ---------------------------------------------------
     DEGREE CENTRALITY
     ---------------------------------------------------
     
-    Visitor (Node) 83558448 has degree centrality of 0.005833561206817974. It has 570 contacts.
+    Visitor (Node) 83558448 has degree centrality of 0.0058. Node Degree: 64. Visit date [datetime.date(2009, 5, 17)].
         
-    Visitor (Node) 90636462 has degree centrality of 0.004557469692826542. It has 267 contacts.
+    Visitor (Node) 90636462 has degree centrality of 0.0046. Node Degree: 50. Visit date [datetime.date(2009, 7, 15)].
         
-    Visitor (Node) 94961689 has degree centrality of 0.004375170905113481. It has 129 contacts.
+    Visitor (Node) 94961689 has degree centrality of 0.0044. Node Degree: 48. Visit date [datetime.date(2009, 7, 14)].
         
-    Visitor (Node) 81068077 has degree centrality of 0.00428402151125695. It has 123 contacts.
+    Visitor (Node) 81068077 has degree centrality of 0.0043. Node Degree: 47. Visit date [datetime.date(2009, 7, 15)].
         
-    Visitor (Node) 80150715 has degree centrality of 0.0041928721174004195. It has 415 contacts.
+    Visitor (Node) 80150715 has degree centrality of 0.0042. Node Degree: 46. Visit date [datetime.date(2009, 7, 14)].
         
     ---------------------------------------------------
        
@@ -37,15 +37,31 @@
     CLOSENESS CENTRALITY
     ---------------------------------------------------
     
-    Visitor (Node) 83558448 has closeness centrality of 0.29175276682258117. It has 570 contacts.
+    Visitor (Node) 83558448 has closeness centrality of 0.29. Node Degree: 64. Visit date [datetime.date(2009, 5, 17)].
         
-    Visitor (Node) 81068077 has closeness centrality of 0.2847592657491442. It has 123 contacts.
+    Visitor (Node) 90636462 has closeness centrality of 0.28. Node Degree: 50. Visit date [datetime.date(2009, 7, 15)].
         
-    Visitor (Node) 94961689 has closeness centrality of 0.28211594318533384. It has 129 contacts.
+    Visitor (Node) 74317851 has closeness centrality of 0.28. Node Degree: 45. Visit date [datetime.date(2009, 5, 3)].
         
-    Visitor (Node) 74317868 has closeness centrality of 0.2807333412519852. It has 108 contacts.
+    Visitor (Node) 76611628 has closeness centrality of 0.28. Node Degree: 34. Visit date [datetime.date(2009, 7, 15)].
         
-    Visitor (Node) 73334797 has closeness centrality of 0.28016543348903045. It has 319 contacts.
+    Visitor (Node) 74317868 has closeness centrality of 0.28. Node Degree: 43. Visit date [datetime.date(2009, 5, 15)].
+        
+    ---------------------------------------------------
+       
+    ---------------------------------------------------
+    FARNESS CENTRALITY
+    ---------------------------------------------------
+    
+    Visitor (Node) 83558439 has farness centrality of 11000.0. Node Degree: 1. Visit date [datetime.date(2009, 5, 14)].
+        
+    Visitor (Node) 100859934 has farness centrality of 11000.0. Node Degree: 1. Visit date [datetime.date(2009, 7, 12)].
+        
+    Visitor (Node) 82444459 has farness centrality of 11000.0. Node Degree: 1. Visit date [datetime.date(2009, 7, 12)].
+        
+    Visitor (Node) 88604734 has farness centrality of 11000.0. Node Degree: 1. Visit date [datetime.date(2009, 5, 30)].
+        
+    Visitor (Node) 73596973 has farness centrality of 6.7. Node Degree: 1. Visit date [datetime.date(2009, 5, 12)].
         
     ---------------------------------------------------
     
@@ -53,31 +69,31 @@
     EIGENVECTOR CENTRALITY
     ---------------------------------------------------
     
-    Visitor (Node) 83558448 has degree centrality of 0.08230432982031798. It has 570 contacts.
+    Visitor (Node) 83558448 has eigenvector centrality of 0.073. Node Degree: 64. Visit date [datetime.date(2009, 5, 17)].
         
-    Visitor (Node) 81068077 has degree centrality of 0.060054146400189745. It has 123 contacts.
+    Visitor (Node) 90636462 has eigenvector centrality of 0.059. Node Degree: 50. Visit date [datetime.date(2009, 7, 15)].
         
-    Visitor (Node) 94961689 has degree centrality of 0.054027327602562805. It has 129 contacts.
+    Visitor (Node) 74317851 has eigenvector centrality of 0.056. Node Degree: 45. Visit date [datetime.date(2009, 5, 3)].
         
-    Visitor (Node) 74317868 has degree centrality of 0.05092313182237545. It has 108 contacts.
+    Visitor (Node) 80150715 has eigenvector centrality of 0.05. Node Degree: 46. Visit date [datetime.date(2009, 7, 14)].
         
-    Visitor (Node) 90636462 has degree centrality of 0.04876793886564907. It has 267 contacts.
+    Visitor (Node) 94699566 has eigenvector centrality of 0.05. Node Degree: 41. Visit date [datetime.date(2009, 5, 16)].
         
     ---------------------------------------------------
        
     ---------------------------------------------------
-    Average Path Length : 4.244884548690335
+    Average Path Length : 4.5
     Diameter            : 8
-    Effective Diameter  : (4.789579775469638, 4.789579775469638)
+    Effective Diameter  : (5.0, 5.0)
     ---------------------------------------------------
        
     ---------------------------------------------------
     Innermost k-shell : 6
-    Number of nodes   : 4577
-    Number of edges   : 23972
+    Number of nodes   : 4516
+    Number of edges   : 23631
     ---------------------------------------------------
     
     ---------------------------------------------------
-    Clustering Coefficient : 0.0015811685028565424
+    Clustering Coefficient : 0.0018
     ---------------------------------------------------
     
