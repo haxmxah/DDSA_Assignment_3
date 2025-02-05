@@ -21,15 +21,15 @@
     DEGREE CENTRALITY
     ---------------------------------------------------
     
-    Visitor (Node) 2543 has degree centrality of 0.0019. It has 0 contacts at date [].
+    Visitor (Node) 9358 has degree centrality of 0.0019. Node Degree: 21. Visit date [].
         
-    Visitor (Node) 1029 has degree centrality of 0.0018. It has 0 contacts at date [].
+    Visitor (Node) 449 has degree centrality of 0.0018. Node Degree: 20. Visit date [].
         
-    Visitor (Node) 9818 has degree centrality of 0.0018. It has 0 contacts at date [].
+    Visitor (Node) 3345 has degree centrality of 0.0018. Node Degree: 20. Visit date [].
         
-    Visitor (Node) 1858 has degree centrality of 0.0017. It has 0 contacts at date [].
+    Visitor (Node) 3470 has degree centrality of 0.0017. Node Degree: 19. Visit date [].
         
-    Visitor (Node) 2119 has degree centrality of 0.0017. It has 0 contacts at date [].
+    Visitor (Node) 4505 has degree centrality of 0.0017. Node Degree: 19. Visit date [].
         
     ---------------------------------------------------
        
@@ -37,15 +37,15 @@
     CLOSENESS CENTRALITY
     ---------------------------------------------------
     
-    Visitor (Node) 9818 has closeness centrality of 0.24. It has 0 contacts at date [].
+    Visitor (Node) 449 has closeness centrality of 0.24. Node Degree: 20. Visit date [].
         
-    Visitor (Node) 5586 has closeness centrality of 0.24. It has 0 contacts at date [].
+    Visitor (Node) 5426 has closeness centrality of 0.24. Node Degree: 19. Visit date [].
         
-    Visitor (Node) 3337 has closeness centrality of 0.24. It has 0 contacts at date [].
+    Visitor (Node) 8482 has closeness centrality of 0.24. Node Degree: 17. Visit date [].
         
-    Visitor (Node) 2239 has closeness centrality of 0.24. It has 0 contacts at date [].
+    Visitor (Node) 9358 has closeness centrality of 0.24. Node Degree: 21. Visit date [].
         
-    Visitor (Node) 2543 has closeness centrality of 0.24. It has 0 contacts at date [].
+    Visitor (Node) 3470 has closeness centrality of 0.24. Node Degree: 19. Visit date [].
         
     ---------------------------------------------------
        
@@ -53,15 +53,15 @@
     FARNESS CENTRALITY
     ---------------------------------------------------
     
-    Visitor (Node) 26 has farness centrality of 6.0. It has 0 contacts at date [].
+    Visitor (Node) 2333 has farness centrality of 6.2. Node Degree: 1. Visit date [].
         
-    Visitor (Node) 2919 has farness centrality of 5.9. It has 0 contacts at date [].
+    Visitor (Node) 4861 has farness centrality of 5.9. Node Degree: 1. Visit date [].
         
-    Visitor (Node) 8689 has farness centrality of 5.9. It has 0 contacts at date [].
+    Visitor (Node) 8725 has farness centrality of 5.8. Node Degree: 2. Visit date [].
         
-    Visitor (Node) 9322 has farness centrality of 5.9. It has 0 contacts at date [].
+    Visitor (Node) 10774 has farness centrality of 5.8. Node Degree: 1. Visit date [].
         
-    Visitor (Node) 7730 has farness centrality of 5.9. It has 0 contacts at date [].
+    Visitor (Node) 9111 has farness centrality of 5.8. Node Degree: 1. Visit date [].
         
     ---------------------------------------------------
     
@@ -69,31 +69,31 @@
     EIGENVECTOR CENTRALITY
     ---------------------------------------------------
     
-    Visitor (Node) 2543 has degree centrality of 0.028. It has 0 contacts at date [].
+    Visitor (Node) 449 has eigenvector centrality of 0.029. Node Degree: 20. Visit date [].
         
-    Visitor (Node) 9818 has degree centrality of 0.028. It has 0 contacts at date [].
+    Visitor (Node) 5426 has eigenvector centrality of 0.028. Node Degree: 19. Visit date [].
         
-    Visitor (Node) 3337 has degree centrality of 0.028. It has 0 contacts at date [].
+    Visitor (Node) 8482 has eigenvector centrality of 0.028. Node Degree: 17. Visit date [].
         
-    Visitor (Node) 5586 has degree centrality of 0.027. It has 0 contacts at date [].
+    Visitor (Node) 3470 has eigenvector centrality of 0.028. Node Degree: 19. Visit date [].
         
-    Visitor (Node) 2239 has degree centrality of 0.027. It has 0 contacts at date [].
+    Visitor (Node) 9358 has eigenvector centrality of 0.028. Node Degree: 21. Visit date [].
         
     ---------------------------------------------------
        
     ---------------------------------------------------
-    Average Path Length : 4.7
+    Average Path Length : 4.6
     Diameter            : 7
     Effective Diameter  : (4.9, 4.9)
     ---------------------------------------------------
        
     ---------------------------------------------------
     Innermost k-shell : 5
-    Number of nodes   : 9682
-    Number of edges   : 39997
+    Number of nodes   : 9680
+    Number of edges   : 40014
     ---------------------------------------------------
     
     ---------------------------------------------------
-    Clustering Coefficient : 0.001
+    Clustering Coefficient : 0.00068
     ---------------------------------------------------
     

@@ -21,15 +21,15 @@
     DEGREE CENTRALITY
     ---------------------------------------------------
     
-    Visitor (Node) 83558448 has degree centrality of 0.0058. It has 570 contacts at date [datetime.date(2009, 5, 17)].
+    Visitor (Node) 83558448 has degree centrality of 0.0058. Node Degree: 64. Visit date [datetime.date(2009, 5, 17)].
         
-    Visitor (Node) 90636462 has degree centrality of 0.0046. It has 267 contacts at date [datetime.date(2009, 7, 15)].
+    Visitor (Node) 90636462 has degree centrality of 0.0046. Node Degree: 50. Visit date [datetime.date(2009, 7, 15)].
         
-    Visitor (Node) 94961689 has degree centrality of 0.0044. It has 129 contacts at date [datetime.date(2009, 7, 14)].
+    Visitor (Node) 94961689 has degree centrality of 0.0044. Node Degree: 48. Visit date [datetime.date(2009, 7, 14)].
         
-    Visitor (Node) 81068077 has degree centrality of 0.0043. It has 123 contacts at date [datetime.date(2009, 7, 15)].
+    Visitor (Node) 81068077 has degree centrality of 0.0043. Node Degree: 47. Visit date [datetime.date(2009, 7, 15)].
         
-    Visitor (Node) 80150715 has degree centrality of 0.0042. It has 415 contacts at date [datetime.date(2009, 7, 14)].
+    Visitor (Node) 80150715 has degree centrality of 0.0042. Node Degree: 46. Visit date [datetime.date(2009, 7, 14)].
         
     ---------------------------------------------------
        
@@ -37,15 +37,15 @@
     CLOSENESS CENTRALITY
     ---------------------------------------------------
     
-    Visitor (Node) 90636462 has closeness centrality of 0.29. It has 267 contacts at date [datetime.date(2009, 7, 15)].
+    Visitor (Node) 83558448 has closeness centrality of 0.29. Node Degree: 64. Visit date [datetime.date(2009, 5, 17)].
         
-    Visitor (Node) 83558448 has closeness centrality of 0.29. It has 570 contacts at date [datetime.date(2009, 5, 17)].
+    Visitor (Node) 90636462 has closeness centrality of 0.28. Node Degree: 50. Visit date [datetime.date(2009, 7, 15)].
         
-    Visitor (Node) 94961689 has closeness centrality of 0.28. It has 129 contacts at date [datetime.date(2009, 7, 14)].
+    Visitor (Node) 74317851 has closeness centrality of 0.28. Node Degree: 45. Visit date [datetime.date(2009, 5, 3)].
         
-    Visitor (Node) 77922457 has closeness centrality of 0.28. It has 294 contacts at date [datetime.date(2009, 7, 15)].
+    Visitor (Node) 76611628 has closeness centrality of 0.28. Node Degree: 34. Visit date [datetime.date(2009, 7, 15)].
         
-    Visitor (Node) 81068077 has closeness centrality of 0.28. It has 123 contacts at date [datetime.date(2009, 7, 15)].
+    Visitor (Node) 74317868 has closeness centrality of 0.28. Node Degree: 43. Visit date [datetime.date(2009, 5, 15)].
         
     ---------------------------------------------------
        
@@ -53,15 +53,15 @@
     FARNESS CENTRALITY
     ---------------------------------------------------
     
-    Visitor (Node) 96403613 has farness centrality of 11000.0. It has 1 contacts at date [datetime.date(2009, 7, 14)].
+    Visitor (Node) 83558439 has farness centrality of 11000.0. Node Degree: 1. Visit date [datetime.date(2009, 5, 14)].
         
-    Visitor (Node) 100466769 has farness centrality of 11000.0. It has 1 contacts at date [datetime.date(2009, 6, 11)].
+    Visitor (Node) 100859934 has farness centrality of 11000.0. Node Degree: 1. Visit date [datetime.date(2009, 7, 12)].
         
-    Visitor (Node) 90570834 has farness centrality of 11000.0. It has 33 contacts at date [datetime.date(2009, 6, 12)].
+    Visitor (Node) 82444459 has farness centrality of 11000.0. Node Degree: 1. Visit date [datetime.date(2009, 7, 12)].
         
-    Visitor (Node) 100597839 has farness centrality of 11000.0. It has 2 contacts at date [datetime.date(2009, 6, 5)].
+    Visitor (Node) 88604734 has farness centrality of 11000.0. Node Degree: 1. Visit date [datetime.date(2009, 5, 30)].
         
-    Visitor (Node) 103874587 has farness centrality of 11000.0. It has 1 contacts at date [datetime.date(2009, 5, 1)].
+    Visitor (Node) 73596973 has farness centrality of 6.7. Node Degree: 1. Visit date [datetime.date(2009, 5, 12)].
         
     ---------------------------------------------------
     
@@ -69,15 +69,15 @@
     EIGENVECTOR CENTRALITY
     ---------------------------------------------------
     
-    Visitor (Node) 90636462 has degree centrality of 0.071. It has 267 contacts at date [datetime.date(2009, 7, 15)].
+    Visitor (Node) 83558448 has eigenvector centrality of 0.073. Node Degree: 64. Visit date [datetime.date(2009, 5, 17)].
         
-    Visitor (Node) 83558448 has degree centrality of 0.066. It has 570 contacts at date [datetime.date(2009, 5, 17)].
+    Visitor (Node) 90636462 has eigenvector centrality of 0.059. Node Degree: 50. Visit date [datetime.date(2009, 7, 15)].
         
-    Visitor (Node) 94961689 has degree centrality of 0.057. It has 129 contacts at date [datetime.date(2009, 7, 14)].
+    Visitor (Node) 74317851 has eigenvector centrality of 0.056. Node Degree: 45. Visit date [datetime.date(2009, 5, 3)].
         
-    Visitor (Node) 77922457 has degree centrality of 0.056. It has 294 contacts at date [datetime.date(2009, 7, 15)].
+    Visitor (Node) 80150715 has eigenvector centrality of 0.05. Node Degree: 46. Visit date [datetime.date(2009, 7, 14)].
         
-    Visitor (Node) 81068077 has degree centrality of 0.054. It has 123 contacts at date [datetime.date(2009, 7, 15)].
+    Visitor (Node) 94699566 has eigenvector centrality of 0.05. Node Degree: 41. Visit date [datetime.date(2009, 5, 16)].
         
     ---------------------------------------------------
        
@@ -89,8 +89,8 @@
        
     ---------------------------------------------------
     Innermost k-shell : 6
-    Number of nodes   : 4452
-    Number of edges   : 23297
+    Number of nodes   : 4516
+    Number of edges   : 23631
     ---------------------------------------------------
     
     ---------------------------------------------------
